@@ -1,0 +1,23 @@
+{
+  "url": "https://anipopina.com/",
+  "accountId": "209018279507",
+  "region": "ap-northeast-1",
+  "bucket": "anipopina-com-web-209018279507",
+  "distributionId": "E2L72PR9WA8CS",
+  "distributionDomain": "dnzu0oeja2qjr.cloudfront.net",
+  "hostedZoneId": "Z100947420XSLWOY8HP9I",
+  "certificateArn": "arn:aws:acm:us-east-1:209018279507:certificate/8a9daf8f-b530-4f2d-bd6f-61ae92a7e9a8",
+  "certificateRegion": "us-east-1",
+  "originAccessControlId": "E1PVSWC12ZH1T8",
+  "cachePolicyId": "105b2e63-2442-4d5a-9287-9cb2fc6e8e97",
+  "responseHeadersPolicyId": "2cf77c53-30b1-40d2-b659-0aa38cec3303",
+  "publicFiles": [
+    "index.html",
+    "style.css",
+    "anipopina.png",
+    "QR_BTC.png",
+    "QR_MONA.png",
+    "favicon.ico",
+    "favicon-32.png"
+  ]
+}
